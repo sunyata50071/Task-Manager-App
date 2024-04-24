@@ -40,7 +40,6 @@ e - exit
 ''')
     
     if menu == "r":
-        pass
         admin_priviledges = input("Enter the password: ")
         if admin_priviledges in admin_password:  # Accessible only by admin password.
             admin_options = input('''\nSelect one of the following options:
@@ -76,7 +75,6 @@ e - exit
             print("\nThat doesn't match!")
     
     elif menu == "a":
-        pass
         try:
             with open("user.txt", "r", encoding="utf-8") as f:
                 for content in f:  # Enables adding tasks for new user without restarting app.
@@ -117,7 +115,6 @@ e - exit
         print("\nThe new task has been added!")
                              
     elif menu == "va":
-        pass
         try:
           with open("tasks.txt", "r", encoding="utf-8") as f_2:
             lines = f_2.readlines()
@@ -140,7 +137,6 @@ e - exit
            continue  # Give user the chance to put tasks.txt in correct folder.
 
     elif menu == "vm":
-        pass
         try:
             with open("tasks.txt", "r", encoding="utf-8") as f_2:
               specific_user_tasks = f_2.readlines()
