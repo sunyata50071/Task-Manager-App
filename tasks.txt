@@ -1,0 +1,7 @@
+admin, Register Users with task_manager.py, Use task_manager.py to add the usernames and passwords for all team members that will be using this program., 10 Oct 2019, 20 Oct 2019, No
+admin, Assign initial tasks, Use task_manager.py to assign each team member with appropriate tasks, 10 Oct 2019, 25 Oct 2019, No
+golem, find the ring, find the ring thats with frodo, 23 Jan 2024, 05 May 2024, no
+gandalf, protect frodo, protect frodo on his way to mordor, 23 Jan 2024, 11 Nov 2024, no
+frodo, bring cookies, bring food to last 3 months, 23 Jan 2024, 04 April 2024, no
+gandalf, bring the white staff, bring white magic stalf, 23 Jan 2024, 20 Feb 2024, no
+gandalf, call the falcons, arrange the eagles to pick us up , 30 Jan 2024, 1 March 2024, no
